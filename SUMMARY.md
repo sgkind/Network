@@ -35,4 +35,9 @@
   * [网桥](试验/可以连接外网的网桥.md)
   * [floodlight&mininet](试验/配置floodlight和mininet环境并进行网络实验.md)
 
+* [SONiC](SONiC/README.md)
+  * [二层](SONiC/Layer2/README.md)
+    * [VLAN](SONiC/Layer2/vlan.md)
+    * [端口聚合](SONiC/Layer2/portChannel.md)
+
 * [其他](其他/README.md)
