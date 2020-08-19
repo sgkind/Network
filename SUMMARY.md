@@ -40,4 +40,7 @@
     * [VLAN](SONiC/Layer2/vlan.md)
     * [端口聚合](SONiC/Layer2/portChannel.md)
 
+* [YANG模型](YANG/README.md)
+  * [编译go]
+
 * [其他](其他/README.md)
