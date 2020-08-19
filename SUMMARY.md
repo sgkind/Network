@@ -32,6 +32,7 @@
     * [VTEP](试验/ovn/8_VTEP.md)
   * [网络试验](试验/网络试验.md)
   * [VXLAN试验](试验/vxlan实验.md)
+  * [主机vtep连接交换机vtep试验](试验/主机vtep连接交换机vtep试验.md)
   * [网桥](试验/可以连接外网的网桥.md)
   * [floodlight&mininet](试验/配置floodlight和mininet环境并进行网络实验.md)
 
@@ -42,5 +43,8 @@
 
 * [YANG模型](YANG/README.md)
   * [编译go]
+
+* [交换机](switch/README.md)
+  * [AOS]
 
 * [其他](其他/README.md)
